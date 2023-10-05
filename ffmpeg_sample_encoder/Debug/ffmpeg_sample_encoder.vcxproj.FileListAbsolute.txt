@@ -1,0 +1,1 @@
+D:\Projects\c++\ffmpeg_study\ffmpeg_sample_encoder\Debug\ffmpeg_sample_encoder.vcxproj.CopyComplete
