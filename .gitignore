@@ -31,3 +31,9 @@
 *.out
 *.app
 /.vs/ffmpeg_study/v17/Browse.VC.opendb
+/.vs/*
+/.vs/ffmpeg_study/v17/Solution.VC.db-wal
+/.vs/ffmpeg_study/v17/Solution.VC.db-shm
+/Debug/ffmpeg_sample_encoder.pdb
+/Debug/ffmpeg_simple_player.pdb
+/Debug/sdl2_test.pdb
