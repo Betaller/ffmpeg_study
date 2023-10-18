@@ -1,0 +1,6 @@
+﻿  decoder.cpp
+D:\Projects\vcpkg\installed\x64-windows\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Projects\c++\ffmpeg_study\ffmpeg_simple_player\decoder.cpp(83,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Projects\c++\ffmpeg_study\ffmpeg_simple_player\decoder.cpp(84,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Projects\c++\ffmpeg_study\ffmpeg_simple_player\decoder.cpp(126,6): warning C4101: “err”: 未引用的局部变量
+  ffmpeg_simple_player.vcxproj -> D:\Projects\c++\ffmpeg_study\x64\Debug\ffmpeg_simple_player.exe

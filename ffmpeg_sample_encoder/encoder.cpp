@@ -180,6 +180,7 @@ int main(int argc, char** argv)
 
 		/* encode the image */
 		mencode(c, frame, pkt, f);
+		free(buf);
 	}
 
 	/* flush the encoder */

@@ -1,0 +1,1 @@
+D:\Projects\c++\ffmpeg_study\ffmpeg_simple_player\Debug\ffmpeg_simple_player.vcxproj.CopyComplete
